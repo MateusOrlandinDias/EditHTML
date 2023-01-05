@@ -29,7 +29,6 @@ namespace EditHTML
             {
                 if (strong.IsMatch(words[i]))
                 {
-                    Console.WriteLine(Match(words[i]).ToString);
                     Console.ForegroundColor = ConsoleColor.Blue;
                     Console.Write(
                         words[i].Substring(
