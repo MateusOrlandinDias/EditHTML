@@ -1,0 +1,14 @@
+C:\dev\EditHTML\bin\Debug\netcoreapp3.1\EditHTML.exe
+C:\dev\EditHTML\bin\Debug\netcoreapp3.1\EditHTML.deps.json
+C:\dev\EditHTML\bin\Debug\netcoreapp3.1\EditHTML.runtimeconfig.json
+C:\dev\EditHTML\bin\Debug\netcoreapp3.1\EditHTML.runtimeconfig.dev.json
+C:\dev\EditHTML\bin\Debug\netcoreapp3.1\EditHTML.dll
+C:\dev\EditHTML\bin\Debug\netcoreapp3.1\EditHTML.pdb
+C:\dev\EditHTML\obj\Debug\netcoreapp3.1\EditHTML.csproj.AssemblyReference.cache
+C:\dev\EditHTML\obj\Debug\netcoreapp3.1\EditHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EditHTML\obj\Debug\netcoreapp3.1\EditHTML.AssemblyInfoInputs.cache
+C:\dev\EditHTML\obj\Debug\netcoreapp3.1\EditHTML.AssemblyInfo.cs
+C:\dev\EditHTML\obj\Debug\netcoreapp3.1\EditHTML.csproj.CoreCompileInputs.cache
+C:\dev\EditHTML\obj\Debug\netcoreapp3.1\EditHTML.dll
+C:\dev\EditHTML\obj\Debug\netcoreapp3.1\EditHTML.pdb
+C:\dev\EditHTML\obj\Debug\netcoreapp3.1\EditHTML.genruntimeconfig.cache
