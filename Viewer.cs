@@ -25,6 +25,16 @@ namespace EditHTML
             var strong = new Regex(@"(?<=<strong>)[\s\S]*?(?=</strong>)");
             var words = text.Split(' ');
 
+            // // Long string  
+            // string authors = "Mahesh Chand, Raj Kumar, Mike Gold, Allen O'Neill, Marshal Troll";
+
+            // // Get all matches  
+            // MatchCollection matchedAuthors = strong.Matches(authors);
+
+            // // Print all matched authors  
+            // for (int count = 0; count < matchedAuthors.Count; count++)
+            //     Console.WriteLine(matchedAuthors[count].Value);
+
             for (var i = 0; i < words.Length; i++)
             {
                 if (strong.IsMatch(words[i]))
