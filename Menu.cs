@@ -58,8 +58,6 @@ namespace EditHTML
             Console.WriteLine("Select one option above:");
             Console.SetCursorPosition(3, 9);
             Console.WriteLine("1 - New File");
-            Console.SetCursorPosition(3, 10);
-            Console.WriteLine("2 - Open File");
             Console.SetCursorPosition(3, 12);
             Console.WriteLine("0 - Leave");
             Console.SetCursorPosition(3, 13);

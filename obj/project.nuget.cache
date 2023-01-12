@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3ybKtvA0pI0ULl6csQRSANVNyBQqp/xx8rUGpA/aGFBRQrPwD1weCuqUDMEjNalKuyt7/WRFrfNjQ0yCnBdwOw==",
+  "dgSpecHash": "+Cbls8DoMfB3TT2Ll6JCjiy8iCCzf9Y7Lxq87i9NbLmX7za23SiLGRDIkrT15Zdby0aD6T/mu94bH0elBhk+kA==",
   "success": true,
   "projectFilePath": "C:\\dev\\EditHTML\\EditHTML.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mateus.dias\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
